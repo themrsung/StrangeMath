@@ -9,6 +9,7 @@ import civitas.celestis.math.StrangeMath;
 public class SVector3 implements SVector {
     /**
      * Creates a new vector.
+     *
      * @param s S component of this vector
      * @param g G component of this vector
      * @param c C component of this vector
@@ -21,6 +22,7 @@ public class SVector3 implements SVector {
 
     /**
      * Copy constructor.
+     *
      * @param other Vector to copy
      */
     public SVector3(SVector3 other) {

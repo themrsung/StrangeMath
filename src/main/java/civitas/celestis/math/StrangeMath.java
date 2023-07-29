@@ -7,6 +7,7 @@ package civitas.celestis.math;
 public final class StrangeMath {
     /**
      * Adds two numbers.
+     *
      * @param x Number 1
      * @param y Number 2
      * @return Sum of two numbers
@@ -17,6 +18,7 @@ public final class StrangeMath {
 
     /**
      * Subtracts two numbers.
+     *
      * @param x Number 1
      * @param y Number 2
      * @return Difference of two numbers
@@ -27,6 +29,7 @@ public final class StrangeMath {
 
     /**
      * Multiplies two numbers.
+     *
      * @param x Number 1
      * @param y Number 2
      * @return Product of two numbers
@@ -37,6 +40,7 @@ public final class StrangeMath {
 
     /**
      * Divides two numbers.
+     *
      * @param x Number 1
      * @param y Number 2
      * @return Result of division

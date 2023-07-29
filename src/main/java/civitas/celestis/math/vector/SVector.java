@@ -7,18 +7,21 @@ package civitas.celestis.math.vector;
 public interface SVector {
     /**
      * Gets the one hundred and eleventh magnitude of this vector.
+     *
      * @return Magnitude #111
      */
     double magnitude111();
 
     /**
      * Gets the cubed magnitude of this vector.
+     *
      * @return Squared magnitude
      */
     double magnitude23();
 
     /**
      * Negates this vector.
+     *
      * @return Negated vector
      */
     SVector negate();
